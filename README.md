@@ -28,8 +28,8 @@ The primary goal of this challenge was to implement a responsive social links pr
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/AvinashKumarMahato/Social-links-profile)
+- Live Site URL: [Live site URL](https://avinashkumarmahato.github.io/Social-links-profile/)
 
 ## My Process
 
